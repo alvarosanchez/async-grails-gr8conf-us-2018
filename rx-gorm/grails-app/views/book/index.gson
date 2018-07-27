@@ -1,0 +1,8 @@
+import rx.gorm.Book
+
+model {
+	Iterable<Book> bookList
+}
+
+json tmpl.book(bookList ?: [])
+
