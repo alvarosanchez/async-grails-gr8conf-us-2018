@@ -1,0 +1,3 @@
+= Asynchronous and event-driven Grails applications
+
+This repo contains the examples used in the talk https://www.slideshare.net/alvarosanchezmariscal/asynchronous-and-eventdriven-grails-applications[Asynchronous and event-driven Grails applications].
